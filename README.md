@@ -6,7 +6,7 @@ List of all things, I'm constantly forgetting or use to help the team on project
 
 * [Git](https://www.git-tower.com/blog/content/posts/54-git-cheat-sheet/git-cheat-sheet-large01.png)
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-    * [Emojis](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c))
+    * [Emojis](https://gist.github.com/roachhd/1f029bd4b50b8a524f3c)
 * [Kubernetes](https://cheatsheet.dennyzhang.com/cheatsheet-kubernetes-a4)
     * [minikube](https://cheatsheet.dennyzhang.com/cheatsheet-minikube-a4)
     * [istio](https://github.com/lordofthejars/asciidoctor-pdf.js/releases/tag/v1.0.0)
