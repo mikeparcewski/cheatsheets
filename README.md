@@ -12,6 +12,7 @@ List of all things, I'm constantly forgetting or use to help the team on project
     * [istio](https://github.com/lordofthejars/asciidoctor-pdf.js/releases/tag/v1.0.0)
 * [Docker](https://www.digitalocean.com/community/tutorials/how-to-remove-docker-images-containers-and-volumes)
 * [Kafka](http://raphaelsolarski.com/index.php/2019/02/23/apache-kafka-cheatsheet/)
+* [Zookeeper](https://www.tutorialspoint.com/zookeeper/zookeeper_cli.htm)
 * [awscli](https://gist.github.com/apolloclark/b3f60c1f68aa972d324b)
 * [gcloud](https://gist.github.com/pydevops/cffbd3c694d599c6ca18342d3625af97)
 
